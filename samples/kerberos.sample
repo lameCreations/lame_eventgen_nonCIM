@@ -1,0 +1,4 @@
+{"ts":0,"src":0,"dest":0,"action":"failure","src_port":0,"dest_port":445,"src_user":"jdoe"}
+{"ts":0,"src":0,"dest":0,"action":"success","src_port":0,"dest_port":445,"src_user":"jdoe"}
+
+
